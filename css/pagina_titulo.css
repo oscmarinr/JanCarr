@@ -1,0 +1,11 @@
+/*-------------------------------------------------------*/
+/*-- TITYLO DE LA PAGINA                              --*/
+
+.titulo-contenedor-principal-1 {
+    text-align                  : left;
+    color                       : #0837b8;
+    font-family                 : Cambria, Arial, Helvetica, sans-serif;
+    font-size                   : 40px;
+    font-style                  : italic;      
+    font-weight                 : bold;        
+}

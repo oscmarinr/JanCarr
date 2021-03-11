@@ -1,0 +1,11 @@
+/*-------------------------------------------------------*/
+/*-- TITULO DE LA EMPRESA                              --*/
+
+.empresa-titulo-1 {
+    text-align                  : lefth;
+ /* color                       :#96225a; */
+    font-family                 : Cambria, Arial, Helvetica, sans-serif;
+    font-size                   : 28px;
+ /* font-style                  : italic;       */
+    font-weight                 : bold;        
+}
